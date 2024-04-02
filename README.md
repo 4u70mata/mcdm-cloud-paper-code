@@ -2,10 +2,9 @@
 
      Cloud Service Selection: MCDM Approach
   
-Author: Ahmed E. Youssef  
+Author of paper : Ahmed E. Youssef  
 Contact: ahyoussef@ksu.edu.sa
 
----
 
 ## Introduction
 
@@ -24,22 +23,13 @@ Paper reference : https://ieeexplore.ieee.org/document/9063529
 - Demonstrates efficiency and correctness through use-case scenarios
 - Outperforms traditional methods like AHP in terms of computational complexity and consistency
 
----
-
-## Usage
-
-1. Install dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-
-2. Run the project:
-    ```
-    python main.py
-    ```
-
----
 
 ## TODO: 
-+ Embelish the repo and bring some order 
++ Embelish the repo and bring some order and good practices
 + Emplement more on the subject , module and presentation 
++ Add requirements even though there aren't many.
+
+
+
+
+
